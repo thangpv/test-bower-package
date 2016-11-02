@@ -1,0 +1,20 @@
+{
+  "name": "test-bower-packge",
+  "homepage": "https://github.com/thangpv/test-bower-package",
+  "description": "test",
+  "main": "test.js",
+  "keywords": [
+    "test"
+  ],
+  "authors": [
+    "ThangPV"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
